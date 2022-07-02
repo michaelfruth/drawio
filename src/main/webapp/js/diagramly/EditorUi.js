@@ -348,9 +348,9 @@
 	EditorUi.prototype.resampleThreshold = 100000;
 
 	/**
-	 * Maximum allowed size for images is 1 MB.
+	 * Maximum allowed size for images is 10 MB.
 	 */
-	EditorUi.prototype.maxImageBytes = 1000000;
+	EditorUi.prototype.maxImageBytes = 10000000;
 
 	/**
 	 * Maximum size for background images is 2.5 MB.
